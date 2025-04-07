@@ -1,7 +1,7 @@
 # <center>Cross-lingual Transfer of Reward Models in Multilingual Alignment</center>
 
 <p align="center">
-    <a href="https://huggingface.co/collections/iqwiki-kor/cross-lingual-transfer-of-reward-models-6717b1bb701bb25af26144a7"><img src="https://img.shields.io/badge/ArXiv-Paper_(TBU)-f26255" alt="🤗"></a>
+    <a href="[https://huggingface.co/collections/iqwiki-kor/cross-lingual-transfer-of-reward-models-6717b1bb701bb25af26144a7](https://arxiv.org/abs/2410.18027)"><img src="https://img.shields.io/badge/ArXiv-Paper-f26255" alt="🤗"></a>
     <a href="https://huggingface.co/collections/iqwiki-kor/cross-lingual-transfer-of-reward-models-6717b1bb701bb25af26144a7"><img src="https://img.shields.io/badge/🤗_Collection-Models_and_Datasets-8c5eb5" alt="🤗"></a>
 </p>
 
